@@ -1,0 +1,9 @@
+Adrian Rupert;65;M;3;1;201907;2
+Augusto Perto;45;B;2;3;201906;2
+Camile Sisne;34;R;1;2;201909;2
+Coraline Magna;78;B;2;5;201910;2
+Demi Lovato;27;B;1;4;201908;2
+Dionisio Baba;23;R;1;7;201907;2
+Justin Bieber;25;M;2;15;201909;2
+Marcelo Tinelli;59;R;2;8;201908;2
+Moria Cassan;56;M;1;9;201908;2
